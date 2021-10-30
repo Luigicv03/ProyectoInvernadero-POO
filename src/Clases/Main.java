@@ -116,5 +116,4 @@ public class Main {
 		}while(regreso!=2);
 		System.out.println("Gracias por utilizar el invernadero");
 	}
-
 }
