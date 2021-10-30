@@ -114,7 +114,7 @@ public class Main {
 			}System.out.println("Desea regresar al menu principal\n 1.Si \t 2.No");
 			regreso = Leer.nextInt();
 		}while(regreso!=2);
-		System.out.println("Gracias por utilizar el invernadero ");
+		System.out.println("Gracias por utilizar el invernadero");
 	}
 
 }
