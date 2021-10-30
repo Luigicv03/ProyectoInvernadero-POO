@@ -14,7 +14,7 @@ public class Main {
 		do {
 		System.out.println("----------------------------");
 		System.out.println("Bienvenido al invernadero");
-		System.out.println("1.-Agregar una Hierba");
+		System.out.println("1.-Agregar una Hierba ");
 		System.out.println("2.-Agregar un Arbol");
 		System.out.println("3.-Agregar un Cactus");
 		System.out.println("4.-Agregar una Orquidea");
